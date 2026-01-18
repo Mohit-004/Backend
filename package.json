@@ -1,0 +1,16 @@
+{
+  "name": "project0",
+  "version": "1.0.0",
+  "description": "my first mern project",
+  "keywords": [
+    "Js",
+    "Backend"
+  ],
+  "license": "ISC",
+  "author": "Mohit",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
